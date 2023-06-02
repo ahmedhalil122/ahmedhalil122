@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Halil</h1>
-<h3 align="center">Still learning C Sharp</h3>
+<h3 align="center">SoftUni student</h3>
+<h4 align="center">C# Advanced Level</h4>
 
 <p align="left"> <a href="https://twitter.com/ahmedthalil" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedthalil?logo=twitter&style=for-the-badge" alt="ahmedthalil" /></a> </p>
 
